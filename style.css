@@ -1,42 +1,6 @@
 body{
-    font-family: 'Montserrat', sans-serif;
-    font-weight: bolder;
-    background-color: rgb(183, 207, 216);
-
+    background-color: cyan;
 }
-h1{
-    font-size: 50px;
-    margin-left: 80px;
-    
-    
-}
-.highlight{
-    color: orange;
-}
-h3{
-    margin-left: 80px;
-    color: blueviolet;
-    
-
-}
-p{
-    margin-left: 80px;    
-    margin-right: 60%;
-}
-#second{
-    position: absolute;
-    margin-left: 50%;
-    margin-right: 5%
-    
-} 
-img{
-    height: 100%;
-    width: 100%;
-}
-button{ 
-    margin-left: 80px;
-    background-color: rgb(98, 0, 255);
-    font-size: xx-large;
-    border-radius: 5px;
-    border-style: none;
+section{
+    border-color: brown;
 }
