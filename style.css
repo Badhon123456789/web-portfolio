@@ -21,7 +21,7 @@ h1{
     height: 100%;
 }
 .top-banner{
-   
+   margin-bottom: 50px;
     background-image: url(Images/top-banner.png);
     background-repeat: no-repeat;
     background: rgb(177, 221, 221);
