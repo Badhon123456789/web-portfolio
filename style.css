@@ -71,11 +71,13 @@ font-size:40px;
     border-left: 10px solid;
     border-image: linear-gradient(180deg, blue, rgb(0, 238, 255) );
     border-image-slice: 1;
+    overflow: scroll;
 }
 #second-one{
 border-left: 10px solid;
 border-image: linear-gradient(180deg, tomato, lightsalmon);
 border-image-slice: 1;
+overflow: scroll;
 
 }
 footer{
